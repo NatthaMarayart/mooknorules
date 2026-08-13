@@ -19,18 +19,20 @@ The incumbents in this category aren't incompetent, they're just not fighting th
 
 ## Research & Positioning
 
-I ran a competitive analysis across the three main incumbents to map:
-- How each brand talks about safety (ingredient callouts, certifications, tone)
-- Price positioning and SKU structure
-- Visual identity and shelf/online presence
+Research wasn't limited to a desk review — I did in-store competitive walks at retail (HomePro), not just online scans, because shelf presence and in-person product experience reveal things a website doesn't:
 
-The finding: safety claims existed but were buried under generic "clean home" messaging. That confirmed the opportunity to build a brand where pet safety is the headline, not a bullet point.
+- **Price-per-ml benchmarking:** built a comparison table across the category — mass-market cleaners at roughly ฿0.07/ml up to naturally-derived positioned brands at ฿0.19–0.30/ml — to find where Ruby & Co. could sit credibly without either underpricing the science behind it or pricing itself out of a first-time buyer's basket
+- **A hands-on finding that shaped the product spec:** one incumbent marketed as "naturally-derived" and non-toxic gave me noticeable eye irritation from its fragrance load in-store. That became a concrete proof point — "naturally-derived" claims on shelf don't reliably mean gentle, and Ruby & Co.'s unscented / low-intensity fragrance direction is a direct answer to that gap, not just a marketing preference
+- **Refill availability audit:** checked which incumbents offered refill formats for floor cleaner specifically (as opposed to other product lines like dish soap) — most didn't, which shaped where refill sits on Ruby & Co.'s roadmap
+- **Category-level finding:** safety claims existed across several brands, but consistently buried under generic "clean home" or "natural" messaging — nobody had made pet safety the headline claim itself
+
+I also researched how an international pet-wellness DTC brand builds a bold, high-contrast visual identity and community-driven content strategy — useful as a reference point, but ultimately a contrast case: Ruby & Co. deliberately went warmer and more editorial instead of copying that bold graphic language, because the founder-led origin story called for a different tone than a scaled consumer brand's.
 
 ## Brand & Product Decisions
 
 - **Category positioning:** "pet-safe floor cleaner" as the entire brand premise, not one feature among many
 - **Single hero SKU:** a 500ml bottle priced at ฿189. Rather than launching multiple formats at once, the priority is establishing the brand itself first — one clear hero product lets the brand story land, with format expansion coming once that foundation is set
-- **Visual identity:** Newsreader (serif, italic accents for warmth) paired with Hanken Grotesk (clean, modern body text), an earth-tone palette, and a layout direction inspired by Fetch & Co. — aiming for a premium-but-approachable feel rather than a clinical "cleaning product" look
+- **Visual identity:** Newsreader (serif, italic accents for warmth) paired with Hanken Grotesk (clean, modern body text), an earth-tone palette — a deliberate contrast to the bold, high-contrast graphic style common among scaled pet-wellness DTC brands, aiming for a premium-but-approachable, founder-led feel rather than a clinical "cleaning product" look
 - **Hero imagery:** planned a studio photoshoot featuring Ruby, my own dog, as the face of the brand — reinforcing the pet-safe premise visually rather than just claiming it in copy
 
 ## On the Live Site
