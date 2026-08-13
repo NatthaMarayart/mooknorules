@@ -9,11 +9,13 @@
 
 ## Background
 
-Ruby & Co. started as a personal problem: cleaning products marketed for "everyday use" rarely say anything about whether they're actually safe around pets who lick floors, walk on wet surfaces, and get residue on their paws. As a dog owner, I wanted a floor cleaner brand that made pet safety the entire premise — not a footnote.
+Walk into any home with a dog and look under the sink. Two bottles. One floor cleaner for "the family," one "pet-safe" version bought separately because the first one made you nervous — because nobody could actually tell you it was fine for the thing that licks the floor. Same floor. Same house. Two products, two price tags, twice the plastic — because the category never questioned why it should be two in the first place.
+
+That's the double-buy nobody names out loud, and it's the whole reason Ruby & Co. exists. Not "make a gentler cleaner." Question the premise: why does a home with a dog in it need two bottles to clean one floor? The answer became the brand line — **"One home. Safe for dogs. Safe for humans."** One product doing the job two used to, because the floor was never the problem. The assumption that you needed two was.
 
 ## Problem
 
-The Thai household cleaning market has established players (Mypaws, SOGANICS, LAGA) competing largely on scent, cleaning power, or general "natural ingredients" claims. None of them own "pet-safe" as a category positioning — it's mentioned, if at all, as a secondary feature. That gap was the opening: a brand that leads with pet safety instead of treating it as an add-on claim.
+The incumbents in this category aren't incompetent, they're just not fighting this battle. They compete on scent, on "natural," on cleaning power — safe-for-pets shows up as a footnote if it shows up at all. Nobody has planted a flag on it. That's not a gap you politely point out in a positioning deck. That's a category sitting open, and I took it.
 
 ## Research & Positioning
 
@@ -27,9 +29,20 @@ The finding: safety claims existed but were buried under generic "clean home" me
 ## Brand & Product Decisions
 
 - **Category positioning:** "pet-safe floor cleaner" as the entire brand premise, not one feature among many
-- **Single hero SKU:** BPT-0008, an olive green round PET bottle, 500ml, priced at ฿189. I deliberately chose one hero product over launching multiple SKUs or leading with the refill pouch — for a new brand, a single clear product removes decision friction for first-time buyers and keeps the initial production/inventory commitment small
-- **Visual identity:** Cormorant Garamond (serif, for warmth and credibility) paired with DM Sans (clean, modern body text), an earth-tone palette, and a layout direction inspired by Fetch & Co. — aiming for a premium-but-approachable feel rather than a clinical "cleaning product" look
+- **Single hero SKU:** a 500ml bottle priced at ฿189. The refill pouch format was cancelled for launch — before expanding the format lineup, the priority is establishing the brand itself. One clear hero product lets the brand story land first, with format expansion (like refills) coming once that foundation is set
+- **Visual identity:** Newsreader (serif, italic accents for warmth) paired with Hanken Grotesk (clean, modern body text), an earth-tone palette, and a layout direction inspired by Fetch & Co. — aiming for a premium-but-approachable feel rather than a clinical "cleaning product" look
 - **Hero imagery:** planned a studio photoshoot featuring Ruby, my own dog, as the face of the brand — reinforcing the pet-safe premise visually rather than just claiming it in copy
+
+## On the Live Site
+
+The finished site translates the founder story directly into the page structure, rather than burying it in an "About" link:
+
+- **Hero:** "One home. Safe for dogs. Safe for humans." — the positioning stated in the first five words a visitor sees
+- **Founder note:** a first-person "Why I made this" section, told through my three dogs — Ruby, Kuber, and Java — and the moment that started it: Ruby's paws turning red after a normal floor cleaning
+- **Our Mission:** framed around the same real incident, closing with the brand's core belief — "if a product is gentle enough for a dog's paws and nose, it's good enough for the whole family"
+- **The dogs as QC team:** Ruby, Kuber, and Java are credited on-site as the "QC team," not just brand mascots — turning what could read as cute pet marketing into an actual (if informal) product validation story
+
+The homepage is a single continuous scroll — one argument, not a hub of disconnected sections — walking a skeptical pet owner from doubt to trust without forcing a page navigation along the way.
 
 ## Build
 
@@ -43,7 +56,7 @@ Before launch, I scoped the operational side so the brand wouldn't stall on fulf
 
 ## A Key Trade-off: Pausing Investment
 
-Mid-way through building toward launch, I made the call to pause further investment — roughly ฿40,000 needed for the next stage — rather than push forward and eat into my financial buffer. This wasn't a failure of the plan; it was a deliberate sequencing decision: the logo and formula work already completed aren't lost, and the brand resumes when the timing and cash position are right. As a PM, I treat this the same way I'd treat any resourcing decision — protecting runway over hitting an arbitrary launch date.
+Mid-way through building toward launch, I made the call to pause further investment rather than push forward and eat into my financial buffer. This wasn't a failure of the plan; it was a deliberate sequencing decision: the logo and formula work already completed aren't lost, and the brand resumes when the timing and cash position are right. As a PM, I treat this the same way I'd treat any resourcing decision — protecting runway over hitting an arbitrary launch date.
 
 ## Current Status
 
