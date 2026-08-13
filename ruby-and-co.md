@@ -29,7 +29,7 @@ The finding: safety claims existed but were buried under generic "clean home" me
 ## Brand & Product Decisions
 
 - **Category positioning:** "pet-safe floor cleaner" as the entire brand premise, not one feature among many
-- **Single hero SKU:** a 500ml bottle priced at ฿189. The refill pouch format was cancelled for launch — before expanding the format lineup, the priority is establishing the brand itself. One clear hero product lets the brand story land first, with format expansion (like refills) coming once that foundation is set
+- **Single hero SKU:** a 500ml bottle priced at ฿189. Rather than launching multiple formats at once, the priority is establishing the brand itself first — one clear hero product lets the brand story land, with format expansion coming once that foundation is set
 - **Visual identity:** Newsreader (serif, italic accents for warmth) paired with Hanken Grotesk (clean, modern body text), an earth-tone palette, and a layout direction inspired by Fetch & Co. — aiming for a premium-but-approachable feel rather than a clinical "cleaning product" look
 - **Hero imagery:** planned a studio photoshoot featuring Ruby, my own dog, as the face of the brand — reinforcing the pet-safe premise visually rather than just claiming it in copy
 
@@ -51,8 +51,8 @@ I designed and built the site myself, end-to-end, using Claude and Claude Code r
 ## Operations Planning
 
 Before launch, I scoped the operational side so the brand wouldn't stall on fulfillment:
-- **Fulfillment threshold:** self-pack while order volume stays under 20/month; switch to a third-party logistics partner once volume exceeds that — avoiding the cost and complexity of outsourcing before it's justified by volume
-- **Team:** an admin (someone I know from a factory visit) already lined up to handle day-to-day operations, so the brand can run without me being the single point of failure while I hold a full-time job elsewhere
+- **Fulfillment threshold:** self-pack while order volume stays low; defined a clear trigger point to switch to a third-party logistics partner once volume justifies the added cost and complexity — rather than outsourcing before it's needed
+- **Team:** an admin already lined up to handle day-to-day operations, so the brand can run without me being the single point of failure while I hold a full-time job elsewhere
 
 ## A Key Trade-off: Pausing Investment
 
@@ -62,7 +62,7 @@ Mid-way through building toward launch, I made the call to pause further investm
 
 - Product testing in progress: new formula being evaluated across four households using a structured Day 1 / Day 3 / Day 7 checklist
 - Launch planned for September
-- Long-term goal: grow Ruby & Co. into primary income, enabling a transition out of full-time employment
+- **Vision:** Grow Ruby & Co. into a category-defining pet-safe home care brand — not just a floor cleaner, but the first name people think of when "safe for pets" needs to mean something real
 
 ## What This Shows
 
