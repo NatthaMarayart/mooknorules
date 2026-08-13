@@ -51,7 +51,7 @@ I designed and built the site myself, end-to-end, using Claude and Claude Code r
 ## Operations Planning
 
 Before launch, I scoped the operational side so the brand wouldn't stall on fulfillment:
-- **Fulfillment threshold:** self-pack while order volume stays under 20/month; switch to a third-party logistics partner (PACKHAI) once volume exceeds that — avoiding the cost and complexity of outsourcing before it's justified by volume
+- **Fulfillment threshold:** self-pack while order volume stays under 20/month; switch to a third-party logistics partner once volume exceeds that — avoiding the cost and complexity of outsourcing before it's justified by volume
 - **Team:** an admin (someone I know from a factory visit) already lined up to handle day-to-day operations, so the brand can run without me being the single point of failure while I hold a full-time job elsewhere
 
 ## A Key Trade-off: Pausing Investment
